@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"> <channel> <title>Ryan Gannon</title> <link></link> <atom:link href="/rss.xml" rel="self" type="application/rss+xml" /> <language>en-us</language> <pubDate>Sat, 08 Jan 2022 23:45:54 -0500</pubDate> <item> <title>Hello, world!</title> <link>/posts/Hello-world.html</link> <pubDate>2022-01-08 23:12:06</pubDate> <author>Ryan Gannon</author> <guid isPermaLink="true">/posts/Hello-world.html</guid> <category><![CDATA[ huh? ]]></category><category><![CDATA[ what? ]]></category> <description><![CDATA[ <h1>Behold!</h1>
+
+<p>Content.</p>
+ ]]></description> </item> </channel> </rss>
