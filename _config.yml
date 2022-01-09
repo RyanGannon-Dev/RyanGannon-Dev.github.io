@@ -28,7 +28,7 @@ twitter_username: rmg1917
 github_username:  IAmRasputin
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
