@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom"> <title>Ryan Gannon</title> <link href=""/> <link type="application/atom+xml" rel="self" href="/atom.xml"/> <updated>Sat, 08 Jan 2022 23:45:54 -0500</updated> <author> <name>Ryan Gannon</name> </author> <entry> <link type="text/html" rel="alternate" href="/posts/Hello-world.html"/> <title>Hello, world!</title> <published>2022-01-08 23:12:06</published> <updated>2022-01-08 23:12:06</updated> <author> <name>Ryan Gannon</name> <uri></uri> </author> <content type="html">&lt;h1&gt;Behold!&lt;/h1&gt;
-
-&lt;p&gt;Content.&lt;/p&gt;
-</content> </entry> </feed>
